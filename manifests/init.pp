@@ -90,6 +90,8 @@
 #   The heap size for the JVM.
 # @param jvm_settings
 #   User settings for jvm.
+# @param jvm_fatal_error_log
+#   Log path for JVM fatal error
 # @param default_jvm_gc_settings
 #   Default settings for jvm gc.
 # @param use_default_jvm_gc_settings
